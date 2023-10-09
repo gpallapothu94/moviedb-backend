@@ -1,0 +1,3 @@
+moviedb:
+  url: https://api.themoviedb.org/3
+  token: ${MOVIEDB_TOKEN}
